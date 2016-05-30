@@ -1,6 +1,8 @@
 # Termos
 ## Terminal framework for js
 
+[![NPM](https://nodei.co/npm/termos.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/termos/)
+
 Termos is a package that lets you easily create CLI tools in Node.js using
 idiomatic ES6 syntax (Node 4+). It's also simple to create associated manual
 (help) pages for each command.
