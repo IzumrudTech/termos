@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2016 IzumrudTech
+Copyright (c) 2016 Keith William Horwood
+Copyright (c) 2016 Izumrud Technologies
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
