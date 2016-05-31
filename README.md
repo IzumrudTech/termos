@@ -7,9 +7,6 @@ Termos is a package that lets you easily create CLI tools in Node.js using
 idiomatic ES6 syntax (Node 4+). It's also simple to create associated manual
 (help) pages for each command.
 
-This module was initially built for [Nodal](http://nodaljs.com), but
-can be used anywhere you'd like.
-
 # Usage
 
 To use Termos, first install it in your Node project with `npm install termos --save`.
