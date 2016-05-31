@@ -14,5 +14,29 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/IzumrudTech/termos.git"
-  }
+  },
+  "keywords": [
+    "termos",
+    "terminal",
+    "console",
+	"text ui",
+	"text",
+	"ui",
+	"framework",
+	"lib",
+	"library",
+	"command",
+	"cmnd",
+	"cmd",
+	"cli",
+	"line",
+	"interface",
+	"command line interface",
+	"терминал",
+	"фрэймворк",
+	"терминальный фрэймворк",
+	"командная строка",
+	"js",
+	"class"
+  ]
 }
