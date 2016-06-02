@@ -1,5 +1,5 @@
 # Termos
-## Terminal framework for js
+## Hot terminal framework for js
 
 [![NPM](https://nodei.co/npm/termos.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/termos/)
 
